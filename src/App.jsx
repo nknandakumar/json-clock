@@ -79,7 +79,7 @@ const App = () => {
      month: <span className="text-green-400">{`"${month}",`} </span>{" "}
    </p>
    <p className=" clockData  ">
-     year: <span className="">{year+","} </span>
+     year: <span className="">{year} </span>
    </p>
  
  
